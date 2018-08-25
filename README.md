@@ -7,7 +7,7 @@ To run: run the java class files as a java applet
 
 Use one of the following argument parameters to choose what sign/s you want to be displayed:
 
-  plainsign
-  cowboysign
-  vegassign
-  outdoorsign
+  plainsign,
+  cowboysign,
+  vegassign,
+  outdoorsign,
